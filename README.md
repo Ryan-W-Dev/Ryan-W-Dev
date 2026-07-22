@@ -28,6 +28,18 @@ Git • GitHub • VS Code • Ubuntu • REST APIs
 **Currently Developing**  
 Full-stack architecture • Database integration • Testing • Deployment
 
+## Featured Project
+
+### [Class Roster](https://github.com/Ryan-W-Dev/class-roster)
+
+[![Class Roster project cover](https://raw.githubusercontent.com/Ryan-W-Dev/class-roster/main/docs/images/class-roster-project-cover.png)](https://github.com/Ryan-W-Dev/class-roster)
+
+A bilingual, offline-first desktop application for recording course attendees in a structured Excel workbook.
+
+**Built with:** Tauri 2 • Rust • JavaScript • HTML • CSS • Excel
+
+Features English and Arabic interfaces, local data storage, input validation, spreadsheet-injection protection, automated testing, and GitHub Actions CI.
+
 ## What I Value
 
 - Clean, readable code
