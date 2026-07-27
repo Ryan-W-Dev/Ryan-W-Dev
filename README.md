@@ -28,7 +28,7 @@ Git • GitHub • VS Code • Ubuntu • REST APIs
 **Currently Developing**  
 Full-stack architecture • Database integration • Testing • Deployment
 
-## tWhat I Value
+## What I Value
 
 - Clean, readable code
 - Responsive and accessible interfaces
