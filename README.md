@@ -37,9 +37,15 @@ Full-stack architecture • Database integration • Testing • Deployment
 
 ## GitHub Activity
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-W-Dev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+## GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-W-Dev&layout=compact&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-W-Dev&theme=github)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryan-W-Dev&theme=github)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-W-Dev&theme=github)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryan-W-Dev&theme=github)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryan-W-Dev&theme=github&utcOffset=4)
 
 ## Connect With Me
 
