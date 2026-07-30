@@ -20,7 +20,7 @@ My professional background in operations, growth, and partnerships helps me appr
 Python • JavaScript • HTML5 • CSS3
 
 **Tools and Workflow**  
-Git • GitHub • VS Code • Ubuntu • REST APIs
+Git • GitHub • VS Code • Ubuntu
 
 **Currently Developing**  
 Full-stack architecture • Database integration • Testing • Deployment
