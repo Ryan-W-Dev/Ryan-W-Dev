@@ -45,10 +45,9 @@ Full-stack architecture • Database integration • Testing • Deployment
 
 **Let's work together!** Reach out via:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-wynn-01a784403/)
-- 📧 Email: [Add your email here]
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev)
+- 📧 Email: ryan.james.wynn@gmail.com
 - 💬 [GitHub](https://github.com/Ryan-W-Dev)
-- 🌐 [Portfolio](Add your portfolio link here)
 
 ---
 
