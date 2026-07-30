@@ -19,9 +19,6 @@ My professional background in operations, growth, and partnerships helps me appr
 **Languages**  
 Python • JavaScript • HTML5 • CSS3
 
-**Frameworks and Backend**  
-Flask • FastAPI • Node.js
-
 **Tools and Workflow**  
 Git • GitHub • VS Code • Ubuntu • REST APIs
 
