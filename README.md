@@ -37,8 +37,6 @@ Full-stack architecture • Database integration • Testing • Deployment
 
 ## GitHub Activity
 
-## GitHub Activity
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-W-Dev&theme=github)
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryan-W-Dev&theme=github)
