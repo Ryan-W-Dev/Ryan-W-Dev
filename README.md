@@ -4,7 +4,7 @@
 
 I'm a full-stack developer based in Abu Dhabi, building practical, responsive web applications and strengthening my skills through hands-on projects.
 
-My professional background in operations, growth, and partnerships helps me approach software from both a technical and business perspective. I care about creating solutions that are useful, clear, and focused on solving real problems.
+My professional background in operations, growth, and partnerships helps me approach software from both a technical and business perspective. I care about creating solutions that are useful, clear, and dependable.
 
 ## About Me
 
@@ -37,7 +37,7 @@ Full-stack architecture • Database integration • Testing • Deployment
 
 ## GitHub Activity
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-W-Dev&show_icons=true&theme=default&hide_border=true)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-W-Dev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-W-Dev&layout=compact&hide_border=true)
 
