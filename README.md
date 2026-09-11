@@ -1,84 +1,57 @@
-<h1 align="center">Hi, I'm Ryan Wynn 👋</h1>
+# Hi, I'm Ryan Wynn 👋
 
-<p align="center">
-  <strong>Web & full-stack developer building thoughtful interfaces and practical applications.</strong><br>
-  Abu Dhabi, United Arab Emirates
-</p>
+**Web & full-stack developer · Abu Dhabi, UAE**
 
-<p align="center">
-  <a href="https://ryanwynn.dev/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ryan-wynn-dev">LinkedIn</a> ·
-  <a href="mailto:ryan.james.wynn@gmail.com">Email</a>
-</p>
+I build responsive websites and practical web applications, with a focus on clear layouts, thoughtful interactions, and the logic behind the interface. My background in **operations, growth, and partnerships** keeps me focused on what a product needs to do—not just how it looks.
 
----
+[Portfolio](https://ryanwynn.dev/) · [Reason & Render](https://reasonandrender.com/) · [LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev) · [Email](mailto:ryan.james.wynn@gmail.com)
 
-I'm interested in how websites **look, feel, and work**—from responsive layouts and keyboard navigation to backend APIs, persistent data, and deployment.
+## Featured work
 
-My background in **operations, growth, and partnerships** shapes how I approach development: understand the problem, make the experience clear, and connect implementation decisions to real needs.
+### Personal portfolio
 
-## Selected work
+**My current portfolio: an editorial-style website built with Astro, TypeScript, and custom CSS.**
 
-### Reason & Render · Website & interactive project planner
+- Static pages and reusable components, with responsive typography and lightweight browser interactions.
+- Keyboard-aware mobile navigation, focus management, reduced-motion support, and section selection that handles scrolling and browser history.
+- Playwright regression tests across Chromium, Firefox, and WebKit, including mobile-header positioning and navigation edge cases.
 
-A multi-page studio website that helps visitors explore services, understand pricing, and turn their requirements into an initial project plan.
+**Astro · TypeScript · CSS · Playwright · Vercel**
 
-- **Application logic:** a deterministic planner with input validation, conditional questions, and explicit handling of uncertain requirements.
-- **Connected workflows:** contact enquiries, PDF plan generation, and email sharing with recipient verification and server-side abuse controls.
-- **Quality & privacy:** unit and browser regression tests, keyboard/focus checks, and visitor-controlled optional analytics.
+[Explore my portfolio →](https://ryanwynn.dev/)
 
-**Next.js · React · TypeScript · Custom CSS · Playwright · Vercel**
+### Reason & Render
 
-[Visit the website](https://reasonandrender.com) · *Source private*
+**A studio website with an interactive planner that turns visitor requirements into an initial project plan.**
 
-### Personal portfolio · Responsive frontend engineering
+- A multi-page Next.js application with shared pricing configuration and a custom CSS design system.
+- A deterministic planning engine with conditional questions, input validation, and explicit handling of uncertain requirements.
+- Contact enquiries, PDF plan generation, and email sharing with recipient verification and server-side abuse controls.
+- Unit and browser tests for application flows, keyboard navigation, and visitor-controlled optional analytics.
 
-An editorial-style portfolio built with static Astro pages, reusable components, custom typography, and lightweight TypeScript interactions.
+**Next.js · React · TypeScript · Playwright · Vercel · Resend**
 
-- **Interaction details:** mobile navigation, focus management, reduced-motion support, and section selection that stays consistent through scrolling and browser history.
-- **Regression coverage:** Playwright tests across Chromium, Firefox, and WebKit, including mobile-header positioning and navigation edge cases.
-- **Release checks:** metadata, sitemap, robots directives, contact links, and CV downloads.
+[Explore Reason & Render →](https://reasonandrender.com/)
 
-**Astro · TypeScript · Custom CSS · Playwright · Vercel**
+*Both featured websites have private source repositories; the links above lead to the websites, not restricted code.*
 
-[Visit the portfolio](https://ryanwynn.dev/) · *Source private*
+## Engineering focus
 
-### Smart Brain · Full-stack image detection
+- **Usable interfaces:** responsive layouts, keyboard access, and predictable navigation.
+- **Testable behaviour:** turning interaction bugs and application edge cases into regression tests.
+- **Connected applications:** validated APIs, persistent data, and transactional email workflows.
 
-A React application for detecting people in uploaded images or images supplied by URL, with user accounts and a persistent leaderboard.
+**Frontend:** JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS  
+**Backend & data:** Node.js, Express, PostgreSQL, REST APIs  
+**Testing & delivery:** Playwright, Node.js test runner, Git, Docker Compose, Vercel
 
-- **Account flows:** registration, HTTP-only sessions, editable profile pictures, and email password recovery with expiring, single-use tokens.
-- **Backend integration:** an Express API connects Hugging Face inference, PostgreSQL persistence, and transactional email delivery.
-- **Data handling:** server-side credentials, parameterized database queries, and authenticated image-detection endpoints.
+## More code & learning
 
-**React · Node.js · Express · PostgreSQL · Vite · Hugging Face**
-
-[Try the app](https://smartbrain.ryanwynn.dev) · [Explore the code](https://github.com/Ryan-W-Dev/Final_Project-SmartBrain)
-
-## Tools I work with
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS |
-| Backend & data | Node.js, Express, PostgreSQL, REST APIs |
-| Testing & quality | Playwright, Node.js test runner, ESLint, Prettier |
-| Development & deployment | Git, GitHub, Docker Compose, Vercel, Neon, Resend |
-
-## What I'm focusing on
-
-- Building interfaces that work across screen sizes, keyboard input, and browser engines.
-- Turning real interaction bugs into regression tests.
-- Connecting frontend experiences to validated backend workflows.
-
-<details>
-<summary>Learning & foundations</summary>
+- **[Smart Brain](https://github.com/Ryan-W-Dev/Final_Project-SmartBrain)** — React and Express image detection with PostgreSQL accounts, HTTP-only sessions, password recovery, and Hugging Face inference. [Try the app](https://smartbrain.ryanwynn.dev).
+- **[Web development exercises](https://github.com/Ryan-W-Dev/Complete_Web_Developer)** — JavaScript, DOM interactions, React, and database fundamentals.
+- **[Python learning & projects](https://github.com/Ryan-W-Dev/ztm-python-course)** — scripting, Flask fundamentals, web scraping, and testing.
 
 I continue learning through **Zero To Mastery** and independent projects.
-
-- [Web development exercises](https://github.com/Ryan-W-Dev/Complete_Web_Developer) — JavaScript, DOM interactions, React, and database fundamentals.
-- [Python learning & projects](https://github.com/Ryan-W-Dev/ztm-python-course) — scripting, Flask fundamentals, web scraping, and testing.
-
-</details>
 
 ## Let's connect
 
