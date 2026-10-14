@@ -1,60 +1,100 @@
-# Hi, I'm Ryan Wynn 👋
+<h1 align="center">Hi, I'm Ryan Wynn 👋</h1>
 
-**Web & full-stack developer · Abu Dhabi, UAE**
+<p align="center">
+  <strong>Web & Full-Stack Developer</strong><br>
+  Abu Dhabi, UAE
+</p>
 
-I build responsive websites and practical web applications, with a focus on clear layouts, thoughtful interactions, and the logic behind the interface. My background in **operations, growth, and partnerships** keeps me focused on what a product needs to do—not just how it looks.
+<p align="center">
+  <a href="https://ryanwynn.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://reasonandrender.com/">
+    <img src="https://img.shields.io/badge/Reason_%26_Render-0F766E?style=for-the-badge" alt="Reason & Render">
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-wynn-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:ryan.james.wynn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge" alt="Email Ryan">
+  </a>
+</p>
 
-[Portfolio](https://ryanwynn.dev/) · [Reason & Render](https://reasonandrender.com/) · [LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev) · [Email](mailto:ryan.james.wynn@gmail.com)
+---
 
-## Featured work
+I build websites and web apps. I care about how they look, how they work, and whether someone can use them without needing an explanation.
 
-### Personal portfolio
+My background is in **operations, growth, and partnerships**, so I tend to start with what people need to get done and work from there. That carries through into the layouts, workflows, and decisions behind the software I build.
 
-**My current portfolio: an editorial-style website built with Astro, TypeScript, and custom CSS.**
+## 🛠 What I'm working on
 
-- Static pages and reusable components, with responsive typography and lightweight browser interactions.
-- Keyboard-aware mobile navigation, focus management, reduced-motion support, and section selection that handles scrolling and browser history.
-- Playwright regression tests across Chromium, Firefox, and WebKit, including mobile-header positioning and navigation edge cases.
+- **Reason & Render** — Developing the website and its Umbraco CMS, with ongoing work on performance, content publishing, and testing.
+- **Expense Room** — Building a private receipt and expense app with receipt capture, account sync, and Excel exports.
+- **PartsRelay** — Working on the user experience for vehicle and parts lookup, including a clickable prototype for workshop staff and service advisers.
 
-**Astro · TypeScript · CSS · Playwright · Vercel**
-
-[Explore my portfolio →](https://ryanwynn.dev/)
+## ↗ Selected work
 
 ### Reason & Render
 
-**A studio website with an interactive planner that turns visitor requirements into an initial project plan.**
+A business website built with **Next.js, React, and TypeScript**, with content managed through **Umbraco**.
 
-- A multi-page Next.js application with shared pricing configuration and a custom CSS design system.
-- A deterministic planning engine with conditional questions, input validation, and explicit handling of uncertain requirements.
-- Contact enquiries, PDF plan generation, and email sharing with recipient verification and server-side abuse controls.
-- Unit and browser tests for application flows, keyboard navigation, and visitor-controlled optional analytics.
+My work covers the frontend, CMS integration, and the process of getting changes tested and published.
 
-**Next.js · React · TypeScript · Playwright · Vercel · Resend**
+- Reusable page components and responsive layouts.
+- Content publishing, image delivery, and cache updates.
+- Browser tests for navigation, forms, and key interactions.
 
-[Explore Reason & Render →](https://reasonandrender.com/)
+`Next.js` `React` `TypeScript` `Umbraco` `Playwright` `Vercel`
 
-*Both featured websites have private source repositories; the links above lead to the websites, not restricted code.*
+**[Visit Reason & Render →](https://reasonandrender.com/)**
 
-## Engineering focus
+<br>
 
-- **Usable interfaces:** responsive layouts, keyboard access, and predictable navigation.
-- **Testable behaviour:** turning interaction bugs and application edge cases into regression tests.
-- **Connected applications:** validated APIs, persistent data, and transactional email workflows.
+### Personal portfolio
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS  
-**Backend & data:** Node.js, Express, PostgreSQL, REST APIs  
-**Testing & delivery:** Playwright, Node.js test runner, Git, Docker Compose, Vercel
+My portfolio, built with **Astro, TypeScript, and custom CSS**. I kept the layout focused on the work, with responsive typography and lightweight interactions.
 
-## More code & learning
+- Reusable components and layouts that adapt across screen sizes.
+- Keyboard navigation, focus management, and reduced-motion support.
+- Playwright tests across Chromium, Firefox, and WebKit.
 
-- **[Smart Brain](https://github.com/Ryan-W-Dev/Final_Project-SmartBrain)** — React and Express image detection with PostgreSQL accounts, HTTP-only sessions, password recovery, and Hugging Face inference. [Try the app](https://smartbrain.ryanwynn.dev).
+`Astro` `TypeScript` `CSS` `Playwright` `Vercel`
+
+**[Visit my portfolio →](https://ryanwynn.dev/)**
+
+<br>
+
+*The links above open the live websites. Their source repositories are private.*
+
+## ⚙ Tools I work with
+
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Astro, HTML, CSS |
+| **Backend & data** | Node.js, Express, PostgreSQL, Supabase, REST APIs |
+| **Content management** | Umbraco |
+| **Testing & delivery** | Playwright, Node.js test runner, Git, GitHub, Docker Compose, Vercel |
+
+## How I approach the work
+
+- **Start with the task.** Understand what someone needs to do before deciding how the interface should work.
+- **Check the awkward cases.** Empty results, failed requests, small screens, and keyboard navigation all need attention.
+- **Test the fixes.** When something breaks, add a useful check so the same issue is easier to catch next time.
+- **Keep improving it.** Building, reviewing, and revisiting decisions are part of the work.
+
+## 📚 What I'm learning
+
+I'm continuing with **Zero To Mastery** and independent projects, with a current focus on advanced JavaScript and a study plan that moves into testing, data structures, and algorithms.
+
+These repositories contain coursework, exercises, and smaller projects:
+
 - **[Web development exercises](https://github.com/Ryan-W-Dev/Complete_Web_Developer)** — JavaScript, DOM interactions, React, and database fundamentals.
-- **[Python learning & projects](https://github.com/Ryan-W-Dev/ztm-python-course)** — scripting, Flask fundamentals, web scraping, and testing.
+- **[Python learning & projects](https://github.com/Ryan-W-Dev/ztm-python-course)** — Scripting, Flask, web scraping, and testing.
 
-I continue learning through **Zero To Mastery** and independent projects.
+---
 
-## Let's connect
+### Let's talk
 
-Open to conversations with **developers, teams, and employers** building useful software with thoughtful user experiences.
+I'm open to web and software development roles and project collaborations. If you're hiring, working on something, or want to compare notes, feel free to get in touch.
 
-[LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev) · [Email me](mailto:ryan.james.wynn@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev)** · **[Email](mailto:ryan.james.wynn@gmail.com)** · **[Portfolio](https://ryanwynn.dev/)**
