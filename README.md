@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Web & Full-Stack Developer</strong><br>
-  Abu Dhabi, UAE
+  United States
 </p>
 
 <p align="center">
