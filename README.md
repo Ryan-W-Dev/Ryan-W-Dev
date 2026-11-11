@@ -21,11 +21,26 @@
 
 ## About
 
-I build web applications, client dashboards and internal tools that support real business workflows, from responsive interfaces to server-side logic, authentication, databases, integrations and AI-powered features. **7 client sites delivered**, plus production tools in daily use.
+I design, build and support software that businesses run on: custom applications, SaaS products, websites, client dashboards, internal tools, system integrations, and AI features and agents. Through my studio, [Reason & Render](https://reasonandrender.com/), that extends past the application into the data, cloud, security and ongoing support behind it, with the Microsoft ecosystem (Azure, Microsoft 365, Fabric, Power BI) as a core platform. **7 client sites delivered**, plus production tools in daily use.
 
 Before software I worked in operations, growth and client delivery, including founding a services business and growing it to AED 1.2M in revenue. That background shapes how I build: I start from the workflow someone actually needs, and I treat permissions, validation, error handling and accessibility as part of the feature rather than an afterthought.
 
 I use AI-assisted development every day, and I back it with code review, automated tests and manual verification before anything ships.
+
+## What I offer
+
+| Area | Services |
+| :--- | :--- |
+| **Software development** | Custom software, SaaS product development, web applications and websites, mobile apps, API and system integration, application modernization |
+| **Artificial intelligence** | AI strategy workshops and roadmaps, custom AI agents and Copilot enablement, AI features in existing products, rapid AI prototyping |
+| **Data and analytics** | Microsoft Fabric data platforms, business intelligence and Power BI reporting, database design, optimization and administration |
+| **Cloud platform** | Azure migration and landing zones, Microsoft 365 migration, cloud architecture, DevOps and automation, backups and disaster recovery |
+| **Security** | Cloud security, data security and governance, identity and endpoint management, application security |
+| **Managed services** | Cloud, data and application support, website hosting and maintenance |
+
+**Industries:** finance and insurance, AEC and real estate, energy and utilities, healthcare, manufacturing, legal and professional services, retail and eCommerce, logistics, hospitality and travel, technology and SaaS, public sector and education, and nonprofits.
+
+Full service details at [reasonandrender.com](https://reasonandrender.com/).
 
 ## Selected work
 
@@ -140,6 +155,7 @@ My portfolio and CV website.
 | **AI and integrations** | Azure AI Document Intelligence, LLM integrations, HubSpot, Postmark, PDF.js, ExcelJS |
 | **Auth and security** | Supabase Auth, NextAuth, OAuth, role-based access, multi-factor authentication |
 | **Testing** | Playwright, Vitest, BrowserStack, accessibility checks, database integration tests |
+| **Cloud and Microsoft** | Azure, Microsoft 365, Microsoft Fabric, Power BI, Copilot |
 | **Delivery** | Git, GitHub Actions, Docker Compose, Vite, Bun, Vercel |
 | **Also used** | Tauri, Rust, Astro, Umbraco |
 
@@ -158,6 +174,6 @@ My portfolio and CV website.
 
 ## Get in touch
 
-I'm open to full-stack and AI/ML engineering roles, contract projects and collaborations.
+I'm open to full-stack and AI/ML engineering roles, and to client projects across software, AI, data, cloud and security.
 
 [LinkedIn](https://www.linkedin.com/in/ryan-wynn-dev) · [Email](mailto:ryan.james.wynn@gmail.com) · [Portfolio](https://ryanwynn.dev/) · [Start a project](https://reasonandrender.com/contact/)
