@@ -21,7 +21,7 @@
 
 ## About
 
-I design, build and support software that businesses run on: custom applications, SaaS products, websites, client dashboards, internal tools, system integrations, and AI features and agents. Through my studio, [Reason & Render](https://reasonandrender.com/), that extends past the application into the data, cloud, security and ongoing support behind it, with the Microsoft ecosystem (Azure, Microsoft 365, Fabric, Power BI) as a core platform. **7 client sites delivered**, plus production tools in daily use.
+I design, build and support software that businesses run on: custom applications, SaaS products, websites, client dashboards, internal tools, system integrations, and AI features and agents. Through my studio, [Reason & Render](https://reasonandrender.com/), that extends past the application into the data, cloud, security and ongoing support behind it, with the Microsoft ecosystem (Azure, Microsoft 365) as a core platform. **7 client sites delivered**, plus production tools in daily use.
 
 Before software I worked in operations, growth and client delivery, including founding a services business and growing it to AED 1.2M in revenue. That background shapes how I build: I start from the workflow someone actually needs, and I treat permissions, validation, error handling and accessibility as part of the feature rather than an afterthought.
 
@@ -32,8 +32,8 @@ I use AI-assisted development every day, and I back it with code review, automat
 | Area | Services |
 | :--- | :--- |
 | **Software development** | Custom software, SaaS product development, web applications and websites, mobile apps, API and system integration, application modernization |
-| **Artificial intelligence** | AI strategy workshops and roadmaps, custom AI agents and Copilot enablement, AI features in existing products, rapid AI prototyping |
-| **Data and analytics** | Microsoft Fabric data platforms, business intelligence and Power BI reporting, database design, optimization and administration |
+| **Artificial intelligence** | AI strategy workshops and roadmaps, custom AI agents, AI features in existing products, rapid AI prototyping |
+| **Data and analytics** | Business intelligence and reporting, database design, optimization and administration |
 | **Cloud platform** | Azure migration and landing zones, Microsoft 365 migration, cloud architecture, DevOps and automation, backups and disaster recovery |
 | **Security** | Cloud security, data security and governance, identity and endpoint management, application security |
 | **Managed services** | Cloud, data and application support, website hosting and maintenance |
@@ -155,7 +155,7 @@ My portfolio and CV website.
 | **AI and integrations** | Azure AI Document Intelligence, LLM integrations, HubSpot, Postmark, PDF.js, ExcelJS |
 | **Auth and security** | Supabase Auth, NextAuth, OAuth, role-based access, multi-factor authentication |
 | **Testing** | Playwright, Vitest, BrowserStack, accessibility checks, database integration tests |
-| **Cloud and Microsoft** | Azure, Microsoft 365, Microsoft Fabric, Power BI, Copilot |
+| **Cloud and Microsoft** | Azure, Microsoft 365 |
 | **Delivery** | Git, GitHub Actions, Docker Compose, Vite, Bun, Vercel |
 | **Also used** | Tauri, Rust, Astro, Umbraco |
 
