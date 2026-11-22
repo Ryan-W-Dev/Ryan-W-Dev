@@ -164,7 +164,7 @@ My portfolio and CV website.
 | Role | Organization | Dates |
 | :--- | :--- | :--- |
 | **Full-Stack Software Engineer** | Self-employed | Sep 2025 to present |
-| **Head of Growth and Partnership** | Quantum Media ME, Dubai | Apr 2026 to present |
+| **Head of Growth & Partnerships** | Quantum Media ME, Dubai | Apr 2026 to present |
 | **Founder** | Smooth Sailing | Nov 2021 to Aug 2025 |
 | **Project Specialist** | Aspen Medical | Nov 2020 to Aug 2021 |
 
